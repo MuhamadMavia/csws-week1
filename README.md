@@ -1,2 +1,4 @@
 # csws-week1
-Computer science workshop
+Week 1 lab
+
+Week1.py - Contains simple "Hello World" program.
